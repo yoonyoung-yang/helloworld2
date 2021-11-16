@@ -1,3 +1,4 @@
 third
-I am the developer B.
-
+<<<<<<< HEAD
+test diff
+deveoper B
