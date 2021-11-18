@@ -1,2 +1,4 @@
 third
+<<<<<<< HEAD
 test diff
+deveoper B
